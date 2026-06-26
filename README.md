@@ -45,7 +45,7 @@ I'm passionate about engineering and tech, working my way toward a career in Mec
 
 ## 📫 Let's Connect
 
-[![LinkedIn](hwww.linkedin.com/in/franco-pena-lepe-210621418)
+[![LinkedIn](www.linkedin.com/in/franco-pena-lepe-210621418)
 
 ---
 
