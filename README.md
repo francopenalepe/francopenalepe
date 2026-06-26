@@ -2,7 +2,7 @@
 
 Aspiring Mechanical Engineer from **Chicago, IL** — I build things, break things, and learn from both.
 
-I'm passionate about engineering and tech, working my way toward a career in Mechanical Engineering while picking up real skills along the way.
+I'm passionate about engineering and tech, working my way toward a career in Mechanical Engineering while picking up skills along the way.
 
 ---
 
@@ -24,7 +24,7 @@ I'm passionate about engineering and tech, working my way toward a career in Mec
 ## 📌 What I'm Up To
 
 - 🔬 Interning at **Discovery Partners Institute (DPI)** — University of Illinois System, Chicago
-- 📚 Currently studying **Electrical & Computer Engineering** through DPI
+- 📚 Currently taking an **Electrical & Computer Engineering** course through DPI
 - ⚙️ Working toward a degree in **Mechanical Engineering**
 - 🧠 Values I code (and live) by: **Hard work. Honesty. Intelligence.**
 
