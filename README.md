@@ -31,18 +31,21 @@ I'm passionate about engineering and tech, working my way toward a career in Mec
 ---
 
 ## 📂 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚧 Coming Soon | More projects on the way | — |
-
+ 
+| Project | Description | Tech | Repo |
+|--------|-------------|------|------|
+| 🎮 TicTacToe Bot | AI bot that plays Tic-Tac-Toe — try to beat it | Python | [View](https://github.com/LT-IntroToAI-SY2526/assignment4-per4-fpena-lepe) |
+| 🔢 Sudoku Solver | Automatically solves any valid Sudoku puzzle | Python | [View](https://github.com/LT-IntroToAI-SY2526/assignment5-per4-fpena-lepe) |
+| 📈 Multivariable Linear Regression | Built from scratch to model real-world data relationships | Python | [View](https://github.com/LT-IntroToAI-SY2526/assignment6-part2-per4-fpena-lepe) |
+| 🤖 Naive Bayes Classifier | Probabilistic text classifier using Bayes' theorem | Python | [View](https://github.com/LT-IntroToAI-SY2526/a7-naive-bayes-fpena-lepe) |
+| 💬 Wikipedia Chatbot | Regex-powered chatbot that pulls answers from Wikipedia | Python | [View](https://github.com/LT-IntroToAI-SY2526/a10-regex-chatbot-fpena-lepe-3) |
+| 🫀 Heart Disease Classifier | Multivariable Logistic Regression to predict heart disease risk | Python | [View](https://github.com/LT-IntroToAI-SY2526/final-project-fpena-lepe) |
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](hwww.linkedin.com/in/franco-pena-lepe-210621418)
 
 ---
 
-*"The secret of getting ahead is getting started."*
