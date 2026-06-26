@@ -1,16 +1,55 @@
-## Hi there 👋
-I'm a rising senior at Lane Tech College Prep who is interested in a career in mechanical engineering!
-<!--
-**francopenalepe/francopenalepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Franco 👋
 
-Here are some ideas to get you started:
+Aspiring Mechanical Engineer from **Chicago, IL** — I build things, break things, and learn from both.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about engineering and tech, working my way toward a career in Mechanical Engineering while picking up real skills along the way.
+
+---
+
+## 🛠️ Tech Stack
+
+**Proficient**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Familiar**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📌 What I'm Up To
+
+- 🔬 Interning at **Discovery Partners Institute (DPI)** — University of Illinois System, Chicago
+- 📚 Currently studying **Electrical & Computer Engineering** through DPI
+- ⚙️ Working toward a degree in **Mechanical Engineering**
+- 🧠 Values I code (and live) by: **Hard work. Honesty. Intelligence.**
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚧 Coming Soon | More projects on the way | — |
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+*"The secret of getting ahead is getting started."*
