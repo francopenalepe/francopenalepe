@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a rising senior at Lane Tech College Prep who is interested in a career in mechanical engineering!
 <!--
 **francopenalepe/francopenalepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
